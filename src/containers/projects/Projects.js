@@ -222,7 +222,7 @@ export default function Projects() {
               text={"More Projects"}
               className="project-button"
               onClick={() => {
-                console.log("Button clicked"); // Debugging statement
+                //console.log("Button clicked"); // Debugging statement
                 setShowAll(true); // Show all projects when the button is clicked
               }}
             />
