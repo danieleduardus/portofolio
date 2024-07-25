@@ -33,7 +33,7 @@ export default function Contact() {
                 <>
                   <a
                     className="contact-detail"
-                    href={"tel:" + contactInfo.number}
+                    href={"https://wa.me/" + contactInfo.number}
                   >
                     {contactInfo.number}
                   </a>
@@ -58,7 +58,7 @@ export default function Contact() {
             ) : (
               <img
                 alt="Man working"
-                src={require("../../assets/images/contactMailDark.svg")}
+                src={require("../../assets/images/contactMail.webp")}
               ></img>
             )}
           </div>

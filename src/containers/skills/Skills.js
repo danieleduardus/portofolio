@@ -22,7 +22,7 @@ export default function Skills() {
             ) : (
               <img
                 alt="Man Working"
-                src={require("../../assets/images/developerActivity.svg")}
+                src={require("../../assets/images/developerActivity.png")}
               ></img>
             )}
           </div>
@@ -45,6 +45,7 @@ export default function Skills() {
             </p>
             <SoftwareSkill />
             <div>
+			  <p className="skills-subtitle-2">{skillsSection.subTitle2}</p>
               {skillsSection.skills.map((skills, i) => {
                 return (
                   <p
