@@ -5,7 +5,7 @@ import ColorThief from "colorthief";
 export default function ExperienceCard({cardInfo, isDark}) {
   const [colorArrays, setColorArrays] = useState([]);
   const imgRef = createRef();
-  const warna = [20,124,244];
+  const warna = [20, 124, 244];
 
   function getColorArrays() {
     const colorThief = new ColorThief();

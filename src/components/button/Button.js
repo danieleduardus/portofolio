@@ -4,7 +4,12 @@ import "./Button.scss";
 export default function Button({text, className, href, newTab, onClick}) {
   return (
     <div className={className}>
-      <a className="main-button" href={href} target={newTab && "_blank"} onClick={onClick}>
+      <a
+        className="main-button"
+        href={href}
+        target={newTab && "_blank"}
+        onClick={onClick}
+      >
         {text}
       </a>
     </div>

@@ -53,7 +53,9 @@ const skillsSection = {
     emoji(
       "⚡ Leading the team to make IT innovations, maintaining the operations, dan solving the IT-related-problems"
     ),
-    emoji("⚡ Plan and organize the development and implementation of information system to comply the company standards"),
+    emoji(
+      "⚡ Plan and organize the development and implementation of information system to comply the company standards"
+    ),
     emoji(
       "⚡ Develop problem solving steps based on the analysis of existing data"
     )
@@ -95,7 +97,7 @@ https://fontawesome.com/icons?d=gallery */
       skillName: "ASP",
       fontAwesomeClassname: "fab fa-microsoft"
     },
-	{
+    {
       skillName: "VB",
       fontAwesomeClassname: "fab fa-microsoft"
     },
@@ -159,7 +161,7 @@ const workExperiences = {
   experience: [
     {
       role: "IT Manager",
-	  bg : [120,185,9],
+      bg: [120, 185, 9],
       company: "Indriati Hospital",
       companylogo: require("./assets/images/logo-indriati.png"),
       date: "2016 – Present",
@@ -167,40 +169,40 @@ const workExperiences = {
       descBullets: [
         "Leading the team to make IT innovations in the hospital environment.",
         "Plan a strategy for implementing hospital information systems in accordance with company policy.",
-		"Providing the hi-tech system to ensure the sustainability of company operational.",
-		"Designing and implementing an effective information system while also enhancing the user experiences.",
-		"Our development carries the paperless concept for support the green environtment vision.",
-		"Managing databases, writing efficient queries, and ensuring data integrity and security.",
-		"Troubleshooting and resolving operational problems which is correlated with IT fields.",
-		"Using communication skills to collaborate effectively with team members and stakeholders.",
-		"Managing time efficiently to meet project deadlines."
+        "Providing the hi-tech system to ensure the sustainability of company operational.",
+        "Designing and implementing an effective information system while also enhancing the user experiences.",
+        "Our development carries the paperless concept for support the green environtment vision.",
+        "Managing databases, writing efficient queries, and ensuring data integrity and security.",
+        "Troubleshooting and resolving operational problems which is correlated with IT fields.",
+        "Using communication skills to collaborate effectively with team members and stakeholders.",
+        "Managing time efficiently to meet project deadlines."
       ]
     },
     {
       role: "General Manager",
-	  bg : [32,99,59],
+      bg: [32, 99, 59],
       company: "CV Saam Jaya Fantasi",
       companylogo: require("./assets/images/logo_sjf.png"),
       date: "2014 – 2016",
       descBullets: [
         "Lead all operational divisions to achieve company goals.",
         "Develop business strategy to align with the company's policy direction.",
-		"Evaluate and supervise work activities in the procurement, warehouse, production, marketing, and accounting departments.",
-		"Plan and organize the allocation of the company's financial budget.",
-		"Make decisions based on the analytical results of company performance indicator data.",
-		"Develop a better manufacturing information system based on the evaluation results of the existing system."
+        "Evaluate and supervise work activities in the procurement, warehouse, production, marketing, and accounting departments.",
+        "Plan and organize the allocation of the company's financial budget.",
+        "Make decisions based on the analytical results of company performance indicator data.",
+        "Develop a better manufacturing information system based on the evaluation results of the existing system."
       ]
     },
     {
       role: "Junior Tech Engineer",
-	  bg : [4,161,233],
+      bg: [4, 161, 233],
       company: "Chemoscience Indonesia",
       companylogo: require("./assets/images/logo-chemoscience.png"),
       date: "2013 – 2014",
       descBullets: [
         "Perform installation, maintenance, and repair of hardware and software of laboratory instruments.",
         "Configuring a laboratory instrument controller using the C programming language.",
-		"Develop an information system for managing work schedules and recording laboratory instrument configuration data."
+        "Develop an information system for managing work schedules and recording laboratory instrument configuration data."
       ]
     }
   ]
@@ -213,7 +215,6 @@ const openSource = {
   showGithubProfile: "false", // Set true or false to show Contact profile using Github, defaults to true
   display: true // Set false to hide this section, defaults to true
 };
-
 
 // Some big projects you have worked on
 
