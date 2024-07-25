@@ -199,7 +199,7 @@ export default function Projects() {
 
   const visibleProjects = showAll ? projects : projects.slice(0, 3); // Show all projects or only the first 3
 
-  if (!(typeof repo === "string") && openSource.display) {
+  if (openSource.display) {
     return (
       <Suspense fallback={renderLoader()}>
         <div className="main" id="opensource">
