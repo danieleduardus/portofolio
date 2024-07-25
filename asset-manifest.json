@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/portofolio/static/css/main.60f1ad6f.css",
+    "main.js": "/portofolio/static/js/main.8b6eced4.js",
+    "static/css/64.bba8fa55.chunk.css": "/portofolio/static/css/64.bba8fa55.chunk.css",
+    "static/js/64.00695886.chunk.js": "/portofolio/static/js/64.00695886.chunk.js",
+    "static/css/769.b3cbb36b.chunk.css": "/portofolio/static/css/769.b3cbb36b.chunk.css",
+    "static/js/769.e13f6c67.chunk.js": "/portofolio/static/js/769.e13f6c67.chunk.js",
+    "static/media/my_photo.png": "/portofolio/static/media/my_photo.8d5933eb99b3d2541300.png",
+    "static/media/logo-ugm.png": "/portofolio/static/media/logo-ugm.d7c8424185958fb2b539.png",
+    "static/media/Montserrat-Regular.ttf": "/portofolio/static/media/Montserrat-Regular.3cd786652b8a2e9d41f2.ttf",
+    "static/media/resume.pdf": "/portofolio/static/media/resume.a8a1b998c0f1c1b645a3.pdf",
+    "static/media/logo-ukdw.png": "/portofolio/static/media/logo-ukdw.8b0d5e77ab378e2e2442.png",
+    "static/media/logo-chemoscience.png": "/portofolio/static/media/logo-chemoscience.034ac0c32ff751e299dc.png",
+    "static/media/Agustina.woff": "/portofolio/static/media/Agustina.eb0c59dda4cc308cba96.woff",
+    "static/media/skill.png": "/portofolio/static/media/skill.5f3314cc6d25b0564e38.png",
+    "static/media/logo_sjf.png": "/portofolio/static/media/logo_sjf.6566f85e17eee0fa7860.png",
+    "static/media/contactMail.webp": "/portofolio/static/media/contactMail.298a597edb8258fc13e5.webp",
+    "static/media/developerActivity.png": "/portofolio/static/media/developerActivity.97e2a4a7df27a148366f.png",
+    "static/media/logo-indriati.png": "/portofolio/static/media/logo-indriati.be1af5a902d8115db0a4.png",
+    "static/media/googleAssistantLogo.webp": "/portofolio/static/media/googleAssistantLogo.f720c71652579588524a.webp",
+    "static/media/codeInLogo.webp": "/portofolio/static/media/codeInLogo.e41a71d512efeda2a55c.webp",
+    "static/media/pwaLogo.webp": "/portofolio/static/media/pwaLogo.8bf2293da0ca66249e37.webp",
+    "static/media/saayaHealthLogo.webp": "/portofolio/static/media/saayaHealthLogo.60b27d1f184fadfce43a.webp",
+    "static/media/nextuLogo.webp": "/portofolio/static/media/nextuLogo.e033dbfa4c58c0a906aa.webp",
+    "index.html": "/portofolio/index.html",
+    "static/media/talksCardBack.svg": "/portofolio/static/media/talksCardBack.73ed1545d58273ba64b0.svg",
+    "main.60f1ad6f.css.map": "/portofolio/static/css/main.60f1ad6f.css.map",
+    "main.8b6eced4.js.map": "/portofolio/static/js/main.8b6eced4.js.map",
+    "64.bba8fa55.chunk.css.map": "/portofolio/static/css/64.bba8fa55.chunk.css.map",
+    "64.00695886.chunk.js.map": "/portofolio/static/js/64.00695886.chunk.js.map",
+    "769.b3cbb36b.chunk.css.map": "/portofolio/static/css/769.b3cbb36b.chunk.css.map",
+    "769.e13f6c67.chunk.js.map": "/portofolio/static/js/769.e13f6c67.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.60f1ad6f.css",
+    "static/js/main.8b6eced4.js"
+  ]
+}
